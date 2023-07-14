@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aritra37&label=Profile%20views&color=0e75b6&style=flat" alt="aritra37" /> </p>
 
-- 🔭 I’m currently working on **Minigram-Frontend**
+- 🔭 I’m currently working on **EmployeeManagement**
 
-- 🌱 I’m currently learning **ReactJs,NextJs**
+- 🌱 I’m currently learning **Firebase,Redux**
 
 - 💬 Ask me about **MERN**
 
