@@ -7,8 +7,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aritra37" alt="aritra37" /></a> </p>
 
-- 🔭 I’m currently working on **Tutor Compass**
-
 - 🌱 I’m currently learning **NextJs**
 
 - 📫 How to reach me **muhuriaritra37@gmail.com**
